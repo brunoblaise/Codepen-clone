@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-const PREFIX = "favourz-codepen-"
+const PREFIX = "codepen-"
 
 function useLocalStorage(key, initialValue) {
     const PREFIXED_KEY = PREFIX + key

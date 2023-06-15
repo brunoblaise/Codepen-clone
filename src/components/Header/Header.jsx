@@ -68,15 +68,7 @@ const Header = ({
               <li className={HeaderStyles["info-content-list-item"]}>
                 Display console terminal (bottom left)
               </li>
-              <li className={HeaderStyles["info-content-list-item"]}>
-                Love this? My{" "}
-                <a
-                  href="https://www.linkedin.com/in/favour-okoh/"
-                  target="_blank"
-                >
-                  Portfolio
-                </a>
-              </li>
+             
             </ul>
           </div>
         </div>

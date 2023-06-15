@@ -18,7 +18,7 @@ export default function App() {
     const timeout = setTimeout(() => {
       isWelcomeTextActive
         ? setSrcDoc(` <html><body> 
-      <div class="welcome-text">Hello there, Welcome to Favour Okoh's Codepen.<br>Start typing to see your results here 😀</div>
+      <div class="welcome-text">Hello there,Welcome to Codepen an online text editor.<br>Start typing to see your results here 😀</div>
       <style>.welcome-text{
         font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
         font-weight: 700;
